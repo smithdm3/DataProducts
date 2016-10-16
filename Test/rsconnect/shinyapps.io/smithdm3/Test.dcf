@@ -1,0 +1,9 @@
+name: Test
+account: smithdm3
+server: shinyapps.io
+appId: 112035
+bundleId: 587492
+url: https://smithdm3.shinyapps.io/Test/
+when: 1476577590.0591
+asMultiple: FALSE
+asStatic: FALSE
